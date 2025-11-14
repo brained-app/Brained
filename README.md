@@ -1,6 +1,6 @@
 # Brained
 <p align="center"> <img src="https://avatars.githubusercontent.com/u/241404186?s=200&v=4" width="140" /> </p> <h3 align="center">Building Brained 🚀</h3> <p align="center"> AI-powered enterprise platform to Discover, Build, Automate, and Govern secure, scalable applications with speed and clarity. </p> <p align="center"> <a href="https://brained.app" target="_blank">
-    <img src="https://img.shields.io/badge/🚀-GET%20STARTED-f97316?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🚀-GET%20STARTED-c6168a?style=for-the-badge"/>
   </a></p>
 
 
